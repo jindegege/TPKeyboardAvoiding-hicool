@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "TPKeyboardAvoiding-hicool”
+  s.name         = "TPKeyboardAvoiding-hicool"
   s.version      = "1.2.4"
-  s.summary      = "TPKeyboardAvoiding-hicool.”
+  s.summary      = "TPKeyboardAvoiding-hicool."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     TPKeyboardAvoiding-hicool is a library
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/TPKeyboardAvoiding-hicool”
+  s.homepage     = "http://github.com/jindegege/TPKeyboardAvoiding-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
