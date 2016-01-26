@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     TPKeyboardAvoiding-hicool is a library
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/TPKeyboardAvoiding-hicool"
+  s.homepage     = "https://github.com/jindegege/TPKeyboardAvoiding-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
